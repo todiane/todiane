@@ -6,7 +6,7 @@
 - 🧠 Learn by doing rather than reading/watching videos. If I am presented with stuff to read I end up doing something else, like putting together my GitHub profile 😏
 - 🥑 I am a flexitarian, which means I eat plenty of wholefoods and do my best to leave junk food alone!
 - ♏ A november born introvert who loves to learn new things
-- - ⌨️ I install WordPress websites and themes. Been involved as a blogger with WordPress since 2006 and install WordPress as a business from 2009-2017. Restarted in 2022.
+- ⌨️ I install WordPress websites and themes. Been involved as a blogger with WordPress since 2006 and install WordPress as a business from 2009-2017. Restarted in 2022.
 
 ## Full Stack Developer Training
 
