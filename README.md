@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code so I can enjoy a digital nomad lifestyle
 - 🌱 I’m currently learning JavaScript and Python 🤪
 - 💞️ I’m looking to collaborate on Hackathons and anything related to women in tech
-- 📫 How to reach me via Twitter @toDianeDev and my website www.todiane.dev
+- 📫 How to reach me via X @toDianeDev and my website www.todiane.dev
 - 🧠 Learn by doing rather than reading/watching videos. 
 - 🥑 I am a flexitarian, which means I eat plenty of wholefoods and do my best to leave junk food alone!
 - ♏ A november born introvert who loves to learn new things
