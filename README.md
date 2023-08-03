@@ -1,14 +1,13 @@
-
+[header](https://github.com/todiane/todiane/blob/main/githubheader.png)
 
 - 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress related
+- ⌨️ I install WordPress websites. Been a blogger with WordPress since 2006. Started installing WordPress for others from 2009-2017. Restarted in 2022.
 - 👀 I’m interested in learning how to code so I can enjoy a digital nomad lifestyle
-- 🌱 I’m currently learning JavaScript and Python 🤪
+- 🌱 I’m currently completing a Full Stack Developer course 🤪
 - 💞️ I’m looking to collaborate on Hackathons and anything related to women in tech
 - 📫 How to reach me via X @toDianeDev and my website www.todiane.dev
-- 🧠 Learn by doing rather than reading/watching videos. 
-- 🥑 I am a flexitarian, which means I eat plenty of wholefoods and do my best to leave junk food alone!
 - ♏ A november born introvert who loves to learn new things
-- ⌨️ I install WordPress websites and themes. Been involved as a blogger with WordPress since 2006 and install WordPress as a business from 2009-2017. Restarted in 2022.
+
 
 ## Full Stack Developer Training
 
