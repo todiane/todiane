@@ -1,4 +1,4 @@
-
+[diane's header](https://github.com/todiane/todiane/blob/main/githubheader.png)
 - 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress related
 - 👀 I’m interested in learning how to code so I can enjoy a digital nomad lifestyle
 - 🌱 I’m currently learning JavaScript and Python 🤪
@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 --->
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todiane&theme=midnight-purple&show_icons=true)
+![Diane's GitHub stats](https://github-readme-stats.vercel.app/api?username=todiane&theme=midnight-purple&show_icons=true)
 
 #
 
