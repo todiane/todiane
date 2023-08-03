@@ -1,4 +1,4 @@
-[header](https://github.com/todiane/todiane/blob/main/githubheader.png)
+![header](https://github.com/todiane/todiane/blob/main/githubheader.png)
 
 - 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress related
 - ⌨️ I install WordPress websites. Been a blogger with WordPress since 2006. Started installing WordPress for others from 2009-2017. Restarted in 2022.
