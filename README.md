@@ -11,7 +11,7 @@
 
 ## Full Stack Developer Training
 
-I am currently going through a Full Stack Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. I will also learn areas outside of this training including PHP, Rest API (although using APIs is covered as part of the Python training) and React.
+I am currently going through a Full Stack Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. I will also learn areas outside of this training including PHP, Resting API (although using APIs is covered as part of the Python training) and React.
 
 I will complete a total of five projects to gain my certificate.
 <!---
