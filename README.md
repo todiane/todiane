@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress related
 - 👀 I’m interested in learning how to code so I can enjoy a digital nomad lifestyle
 - 🌱 I’m currently learning JavaScript and Python 🤪
