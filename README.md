@@ -5,12 +5,13 @@
 - 🌱 Currently completing a Full Stack Developer course 🤪
 - 💞️ I’m looking to collaborate on Hackathons and anything related to women in tech
 
+## WordPress Developer
+
+As well as installing WordPress websites and themes for clients. I am self-taught in advanced WordPress concepts including PHP, hooks and functions, theme creation and Rest API.
 
 ## Full Stack Developer Training
 
-I am currently going through a Full Stack Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. I will also learn areas outside of this training including PHP, Resting API (although using APIs is covered as part of the Python training) and React.
-
-I will complete a total of five projects to gain my certificate.
+Currently undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. I will complete a total of five projects to gain my certificate. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, React, Agile development, Flask, database management and Django. My specialisation choice will be Advanced Front-End.
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -42,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hackathons, Free Code Camp and Udemy
 
-Along with my Full Stack training I am also going through material provided by Free Code Camp and courses I buy from Udemy. I am registered to a JavaScript and Python course on Udemy plus going through the Free Code Camp web developer, javascript and python courses. Code Instutitue run monthly Hackathon projects and I have included links to created projects here.
+Along with my Full Stack training I am also going through material provided by Free Code Camp and courses I buy from Udemy. Code Instutitue run monthly Hackathon projects and I have included links to created projects here.
 
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
