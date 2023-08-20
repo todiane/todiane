@@ -2,7 +2,7 @@
 - ⌨️ I install WordPress websites. Been a blogger with WordPress since 2006.
 - :point_up_2: Started installing WordPress for others from 2009-2017. Restarted in 2022.
 - 👀 Learning how to code so I can continue enjoying a digital nomad lifestyle
-- 🌱 Currently completing a Full Stack Developer course 🤪
+- 🌱 Currently completing a Full Stack Software Developer course 🤪
 - 💞️ I’m looking to collaborate on Hackathons and anything related to women in tech
 
 ## WordPress Developer
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
 | 01  |                     [The Sologamy Club](https://todiane.github.io/sologamyp1/)                    |                             HTML5 and CSS3                             | Learn the basic underpinnings behind HTML 5 and CSS 3. Complete exercises and Love Running Walkthrough project first.               |     June 2023     |
 | 02  |                     [The Cycle of Life](https://todiane.github.io/cycle-of-life-p2/)                    |                               JavaScript                               | Using JavaScript to create a game. For loops, functions, methods, conditionals, if/else, arrays etc                                 |     July 2023     |
-| 03  |                    [Corri Construction Company](https://corri-construction-p3-e9d1aa627f6f.herokuapp.com/)                    |                                Python                                  | Use Python to create a project. Currently working on this during July 2023 to be submitted August 2023                              | before Sept 2023  |
+| 03  |                    [Corri Construction](https://corri-construction-p3-e9d1aa627f6f.herokuapp.com/)                    |                                Python                                  | Use Python to create a project. Currently working on this during August 2023 to be submitted soon.                              | before Sept 2023  |
 | 04  |                       Project 4                          |                        Full Stack Toolkit                              | Build a Full-Stack site based on business logic used to control a centrally-owned dataset.                                          | before January 24 |
 | 05  |                      Project 5                           |                        Specialisation project                          | Learn about functions and methods to manage an application's logic flow                                                             |  before March 24  |
 
