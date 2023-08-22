@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
 | 01  |                     [The Sologamy Club](https://todiane.github.io/sologamyp1/)                    |                             HTML5 and CSS3                             | Learn the basic underpinnings behind HTML 5 and CSS 3. Complete exercises and Love Running Walkthrough project first.               |     June 2023     |
 | 02  |                     [The Cycle of Life](https://todiane.github.io/cycle-of-life-p2/)                    |                               JavaScript                               | Using JavaScript to create a game. For loops, functions, methods, conditionals, if/else, arrays etc                                 |     July 2023     |
-| 03  |                    [Corri Construction](https://corri-construction-p3-e9d1aa627f6f.herokuapp.com/)                    |                                Python                                  | Use Python to create a project. Currently working on this during August 2023 to be submitted soon.                              | before Sept 2023  |
+| 03  |                    [Corri Construction](https://corri-construction-p3-e9d1aa627f6f.herokuapp.com/)                    |                                Python                                  | Use Python to create a project. Created a portal for contractors with Google API.                              | August 2023  |
 | 04  |                       Project 4                          |                        Full Stack Toolkit                              | Build a Full-Stack site based on business logic used to control a centrally-owned dataset.                                          | before January 24 |
 | 05  |                      Project 5                           |                        Specialisation project                          | Learn about functions and methods to manage an application's logic flow                                                             |  before March 24  |
 
@@ -41,18 +41,34 @@ You can click the Preview link to take a look at your changes.
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />    
  </p> 
 
-## Hackathons, Free Code Camp and Udemy
+## Training Projects
 
-Along with my Full Stack training I am also going through material provided by Free Code Camp and courses I buy from Udemy. Code Instutitue run monthly Hackathon projects and I have included links to created projects here.
+These are projects created while going through the training. 
 
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+|     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
+| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
+| 01  |                    [Love Running](https://todiane.github.io/love-running/index.html)                      |                             HTML5 and CSS3                             | Using html and CSS skills            |   May 2023   |
+| 02  |                 [Love Maths](https://todiane.github.io/love-maths/)                    |                               HTML5,  CSS3 and JavaScript                                   | Learn JavaScript                              | June 2023 |
+| 03  |                      [Love Sandwiches](https://djc-love-sandwiches-60603cc4f0ea.herokuapp.com/ )                          |                        Python                            | Use Python to create a project that updates Google API Sheet                                | July 2023 |
+| 04  |                     [Jucing Drop](https://todiane.github.io/bootstrap-landing-page/)                    |                               CSS3, HTML,  Bootstrap                              | Landing page beginners site using Bootstrap. [README](https://github.com/todiane/bootstrap-landing-page)                                | August 2023    |
+| 05  |                      [UCD Resume](https://todiane.github.io/ucd-resume/)                          |                Bootstrap, HTML, CSS                            | A resume project that I updated with my own information.                                          | August 2023 |   
+
+<!---
+todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+## Hackathons, Free Code Camp and Udemy
+
+Along with my Full Stack training I am also going through material provided by Free Code Camp and courses I buy from Udemy. Code Instutitue run monthly Hackathon projects and I have included links to created projects here.
+
 |     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Company     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
 | 01  |                    [To Diane Dev](https://todiane.github.io/toDianeDev/)                      |                             HTML5 and CSS3                             | Using basic html and CSS skills I have so far I put up a website that I will update. [README](https://github.com/todiane/toDianeDev)            |   Myself   |
-| 02  |                     [Jucing Drop](https://todiane.github.io/bootstrap-landing-page/)                    |                               CSS3, HTML,  Bootstrap                              | Landing page beginners site using Bootstrap. [README](https://github.com/todiane/bootstrap-landing-page)                                | Code Institute    |
+| 02  |                     [Cafe Menu](https://todiane.github.io/cafe-menu/)                   |                               CSS3, HTML                             | Landing page with simple cafe menu. [README](https://github.com/todiane/cafe-menu)                                | Free Code Camp    |
 | 03  |                 [Flexbox Photo Gallery](https://todiane.github.io/flexbox-photo-gallery/)                    |                               HTML5 and CSS3                                   | Learn the basics of creating Flexboxes and adding images. [README](https://github.com/todiane/flexbox-photo-gallery)                              | Free Code Camp  |
 | 04  |                      [Get Rid Of Bias](https://yannickferenczi.github.io/grob/)                          |                        HTML, CSS, Materialize                            | Hackathon project for June 2023. Build a project inline with PRIDE month. We created an inclusivity checker. I designed images and completed README                                         | Code Int |
 | 05  |                      [Aqua La Vista](https://aqua-la-vista.netlify.app/)                          |                        React, Netlify                            | Hackathon project for July 2023. Build an app that helps people find location based events. We choose Wild Swimming as our topic. I have no knowledge of React so supported the team with admin skills.                                          | Code Int |                                                    
