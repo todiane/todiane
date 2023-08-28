@@ -1,17 +1,11 @@
 - 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress related
-- ⌨️ I install WordPress websites. Been a blogger with WordPress since 2006.
-- :point_up_2: Started installing WordPress for others from 2009-2017. Restarted in 2022.
-- 👀 Learning how to code so I can continue enjoying a digital nomad lifestyle
-- 🌱 Currently completing a Full Stack Software Developer course 🤪
-- 💞️ I’m looking to collaborate on Hackathons and anything related to women in tech
-
-## WordPress Developer
-
-As well as installing WordPress websites and themes for clients. I am self-taught in advanced WordPress concepts including PHP, hooks and functions, theme creation and Rest API.
+- :point_up_2: Installed WordPress websites from 2009-2017. Restarted in 2022.
+- 👀 Currently completing a Full Stack Software Developer course 🤪
+- 💞️ Happy to collaborate on Hackathons and anything related to women in tech
 
 ## Full Stack Developer Training
 
-Currently undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. I will complete a total of five projects to gain my certificate. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, React, Agile development, Flask, database management and Django. My specialisation choice will be Advanced Front-End.
+Undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, React, Agile development, Flask, database management and Django. 
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -41,10 +35,17 @@ You can click the Preview link to take a look at your changes.
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />    
  </p> 
 
+## My Own Projects
+
+I am using my skills to do my own thing outside of (but thanks to) my training
+
+|     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
+| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
+| 01  |                    [To Diane Dev](https://todiane.github.io/toDianeDev/)                      |                             HTML5 and CSS3                             | Using basic html and CSS skills I have so far I put up a website that I will update. [README](https://github.com/todiane/toDianeDev)            |   July 2023   |
+| 02  |                     [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               | Aug 2023   |
+
 ## Training Projects
-
 These are projects created while going through the training. 
-
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -67,11 +68,9 @@ Along with my Full Stack training I am also going through material provided by F
 
 |     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Company     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
-| 01  |                    [To Diane Dev](https://todiane.github.io/toDianeDev/)                      |                             HTML5 and CSS3                             | Using basic html and CSS skills I have so far I put up a website that I will update. [README](https://github.com/todiane/toDianeDev)            |   Myself   |
-| 02  |                     [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               | Me   |
-| 03  |                 [Flexbox Photo Gallery](https://todiane.github.io/flexbox-photo-gallery/)                    |                               HTML5 and CSS3                                   | Learn the basics of creating Flexboxes and adding images. [README](https://github.com/todiane/flexbox-photo-gallery)                              | Free Code Camp  |
-| 04  |                      [Get Rid Of Bias](https://yannickferenczi.github.io/grob/)                          |                        HTML, CSS, Materialize                            | Hackathon project for June 2023. Build a project inline with PRIDE month. We created an inclusivity checker. I designed images and completed [README](https://github.com/todiane/grob)                                         | Code Int |
-| 05  |                      [Aqua La Vista](https://aqua-la-vista.netlify.app/)                          |                        React, Netlify                            | Hackathon project for July 2023. Build an app that helps people find location based events. We choose Wild Swimming as our topic. I have no knowledge of React so supported the team with admin skills.                                          | Code Int |                                                    
+| 01  |                 [Flexbox Photo Gallery](https://todiane.github.io/flexbox-photo-gallery/)                    |                               HTML5 and CSS3                                   | Learn the basics of creating Flexboxes and adding images. [README](https://github.com/todiane/flexbox-photo-gallery)                              | Free Code Camp  |
+| 02  |                      [Get Rid Of Bias](https://yannickferenczi.github.io/grob/)                          |                        HTML, CSS, Materialize                            | Hackathon project for June 2023. Build a project inline with PRIDE month. We created an inclusivity checker. I designed images and completed [README](https://github.com/todiane/grob)                                         | Code Int |
+| 03  |                      [Aqua La Vista](https://aqua-la-vista.netlify.app/)                          |                        React, Netlify                            | Hackathon project for July 2023. Build an app that helps people find location based events. We choose Wild Swimming as our topic. I have no knowledge of React so supported the team with admin skills.                                          | Code Int |                                                    
                       
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
