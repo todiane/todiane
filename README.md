@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress related
 - :point_up_2: Installed WordPress websites from 2009-2017. Restarted in 2022.
-- 👀 Currently completing a Full Stack Software Developer course 🤪
-- 💞️ Happy to collaborate on Hackathons and anything related to women in tech
+- 👀 Currently completing a Full Stack Software Developer course 🤪 
+- 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
 ## Full Stack Developer Training
 
@@ -44,8 +44,18 @@ I am using my skills to do my own thing outside of (but thanks to) my training
 | 01  |                    [To Diane Dev](https://todiane.github.io/toDianeDev/)                      |                             HTML5 and CSS3                             | Using basic html and CSS skills I have so far I put up a website that I will update. [README](https://github.com/todiane/toDianeDev)            |   July 2023   |
 | 02  |                     [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               | Aug 2023   |
 
+## Open Source Projects
+
+I want to contribute to as many open source projects as my skills allow.
+
+|     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
+| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
+| 01  |                    [Travis Media ToDo App](https://github.com/rodgtr1/community-javascript-todo-app)                      |                             JavaScript                             | This is a community project for members of Travis Media             |   Sept 2023   |
+
+
+
 ## Training Projects
-These are projects created while going through the training. 
+These are projects created while going through my full stack software developer training. 
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -76,14 +86,5 @@ Along with my Full Stack training I am also going through material provided by F
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#
-
-![Diane's GitHub stats](https://github-readme-stats.vercel.app/api?username=todiane&theme=midnight-purple&show_icons=true)
-
-#
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=todiane&theme=violet-punch)](https://git.io/streak-stats)
-
-#
 
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
