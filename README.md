@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress related
-- :point_up_2: Installed WordPress websites from 2009-2017. Restarted in 2022.
+- 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress and Django related
+- :point_up_2: Installed WordPress websites from 2009-2017. I build and sell websites.
 - 👀 Currently completing a Full Stack Software Developer course 🤪 
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
