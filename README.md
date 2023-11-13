@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <br><br>
+
 ## My Own Projects
 
 I am using my skills to do my own thing outside of (but thanks to) my training
