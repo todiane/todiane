@@ -38,7 +38,11 @@ You can click the Preview link to take a look at your changes.
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_%20Studio%20Code-3583b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />    
  </p> 
-
+<br><br>
+ <a href="https://github.com/todiane">
+    <img src="https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+<br><br>
 ## My Own Projects
 
 I am using my skills to do my own thing outside of (but thanks to) my training
