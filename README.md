@@ -5,7 +5,11 @@
 
 ## Full Stack Developer Training
 
-Undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, React, Agile development, Flask, database management and Django. 
+Undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, Django, eCommerce, Agile development, Flask, database management and Django. 
+<br/>
+<a href="https://www.linkedin.com/in/todianedev/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
