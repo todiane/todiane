@@ -3,6 +3,7 @@
 - 👀 Currently completing a Full Stack Software Developer course 🤪 
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
+
 ## Full Stack Developer Training
 
 Undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, Django, eCommerce, Agile development, Flask, database management and Django. 
@@ -100,5 +101,7 @@ Along with my Full Stack training I am also going through material provided by F
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![](https://visitcount.itsvg.in/api?id=todiane&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
