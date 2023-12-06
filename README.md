@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Diane Corriette @toDianeDev - I love all things WordPress and Django related
-- :point_up_2: Installed WordPress websites from 2009-2017. I build and sell websites.
-- 👀 Currently completing a Full Stack Software Developer course 🤪 
+- 👋 Hi, I’m Diane Corriette @toDianeDev - I love to create, build and debug websites, eCommerce stores and membership/learning sites.
+- :point_up_2: Installed WordPress websites from 2009-2017. I still build and sell websites.
+- 👀 Currently completing a Full Stack Software Developer course 🤪 so I can build and sell software.
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
 
 ## Full Stack Developer Training
 
-Undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, Django, eCommerce, Agile development, Flask, database management and Django. 
+Undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, Django, eCommerce/SEO/marketing, Agile development, Flask, database management, APIs, testing and Django. 
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/todianedev/">
