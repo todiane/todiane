@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diane Corriette @toDianeDev - I love to create, build and debug websites, eCommerce stores and membership/learning sites.
+- 👋 Hi, I’m Diane Corriette @toDianeDev - Love to create, build and debug websites, eCommerce stores and elearning sites, aka digital commerce.
 - :point_up_2: Installed WordPress websites from 2009-2017. I still build and sell websites.
 - 👀 Currently completing a Full Stack Software Developer course 🤪 so I can build and sell software.
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
