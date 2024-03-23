@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Diane Corriette @toDianeDev - Love to create, build and debug websites, eCommerce stores and elearning sites, aka digital commerce.
-- :point_up_2: Installed WordPress websites from 2009-2017. I still build and sell websites.
-- 👀 Currently completing a Full Stack Software Developer course 🤪 so I can build and sell software.
+- 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
+- 👀 Building Chatbots and learning about AI, Machine Learning, Large Language Model
+- :point_up_2: Installed WordPress websites from 2009-2017. 
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
 
 ## Full Stack Developer Training
 
-Undertaking a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024) which will help me bring new skills to my WordPress experience. Along with HTML, CSS, JavaScript and Python I will learn Bootstrap, Django, eCommerce/SEO/marketing, Agile development, Flask, database management, APIs, testing and Django. 
+Completed a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024). Along with HTML (and HTMLX), CSS, JavaScript and Python I use Bootstrap, Django, Flask, database management, and APIs to work towards chatbot development. Building eCommerce stores, SEO and marketing plus Agile development was also covered on my course. 
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/todianedev/">
@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 --->
 |     |                       Project Name                       |                            Concepts Taught                             | Learning Objectives                                                                                                                 |     Completed     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
-| 01  |                     [The Sologamy Club](https://todiane.github.io/sologamyp1/)                    |                             HTML5 and CSS3                             | Learn the basic underpinnings behind HTML 5 and CSS 3. [README](https://github.com/todiane/sologamyp1). Version 2 Updated with new CSS training [README](https://github.com/todiane/sologamy-p1-v2)              |     June 2023 and August 2023  |
-| 02  |                     [The Cycle of Life](https://todiane.github.io/cycle-of-life-p2/)                    |                               JavaScript                               | Using JavaScript to create a game. For loops, functions, methods, conditionals, if/else, arrays etc [README](https://github.com/todiane/cycle-of-life-p2)                                 |     July 2023     |
-| 03  |                    [Corri Construction](https://corri-construction-8c4725a33281.herokuapp.com/)                    |                                Python                                  | Use Python to create a project. Created a portal for contractors with Google API. [README](https://github.com/todiane/corri-construction-p3)                              | August 2023  |
-| 04  |                       [Our Spot Photo Platform](https://ourspot-d2a3c52401dc.herokuapp.com/)                          |                        Full Stack Toolkit                              | Using Django, build a Full-Stack site based on business logic used to control a centrally-owned dataset. I set up a photo sharing platform/social network for people to share their favourite spot. [README](https://github.com/todiane/our-spot)                                          | due before January 24, completed November 2023 |
-| 05  |                      Project 5                           |                        Specialisation project                          | Learn about functions and methods to manage an application's logic flow                                                             |  before March 24  |
+| 01  |                     [The Sologamy Club](https://todiane.github.io/sologamyp1/)                    |                             HTML5 and CSS3                             | Learn the basic underpinnings behind HTML 5 and CSS 3. [README](https://github.com/todiane/sologamyp1). Version 2 Updated with new CSS training [README](https://github.com/todiane/sologamy-p1-v2)              |     June 2023 - ***Merit Grade***  |
+| 02  |                     [The Cycle of Life](https://todiane.github.io/cycle-of-life-p2/)                    |                               JavaScript                               | Using JavaScript to create a game. For loops, functions, methods, conditionals, if/else, arrays etc [README](https://github.com/todiane/cycle-of-life-p2)                                 |     July 2023 - ***Pass Grade***     |
+| 03  |                    [Corri Construction](https://corri-construction-8c4725a33281.herokuapp.com/)                    |                                Python                                  | Use Python to create a project. Created a portal for contractors with Google API. [README](https://github.com/todiane/corri-construction-p3)                              | August 2023 - ***Distinction Grade***  |
+| 04  |                       [Our Spot Photo Platform](https://ourspot-d2a3c52401dc.herokuapp.com/)                          |                        Full Stack Toolkit                              | Using Django, build a Full-Stack site based on business logic used to control a centrally-owned dataset. I set up a photo sharing platform/social network for people to share their favourite spot. [README](https://github.com/todiane/our-spot)                                          | due before January 24, completed November 2023 - ***Merit Grade*** |
+| 05  |                      Specialisation Project - [Poster Palace](https://posterpalace-a7414f135cf3.herokuapp.com/)                            |                        Back-End. Database. Stripe.                         | Learn about functions and methods to manage an application's logic flow. [README](https://github.com/todiane/poster-palace)                                                             |  February 2024 - ***Merit Grade***  |
 
 ✨ **Technologies**
 <p dir="auto">
