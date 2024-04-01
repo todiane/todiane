@@ -4,9 +4,9 @@
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
 
-## Full Stack Developer Training
+## Full Stack Developer
 
-Completed a Full Stack Software Developer training course with Code Institute (April 2023 - March 2024). Along with HTML (and HTMLX), CSS, JavaScript and Python I use Bootstrap, Django, Flask, database management, and APIs to work towards chatbot development. Building eCommerce stores, SEO and marketing plus Agile development was also covered on my course. 
+Qualified Full Stack Software Developer with a specialization in eCommerce. Front-End skills include HTML (and HTMLX), CSS, Bootstrap and JavaScript.  I focus more on back-end and working with Python, Django, Flask, database management, and APIs to work towards chatbot development. 
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/todianedev/">
