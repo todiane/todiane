@@ -53,10 +53,9 @@ I am using my skills to do my own thing outside of (but thanks to) my training
 
 |     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
-| 01  |                    [To Diane Dev](https://todiane.github.io/toDianeDev/)                      |                             HTML5 and CSS3                             | Using basic html and CSS skills I have so far I put up a website that I will update. [README](https://github.com/todiane/toDianeDev)            |   July 2023   |
-| 02  |                     [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               | Aug 2023   |
-| 03  |                    [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for my the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |   November 2023   |
-| 04  |                    [Bootstraping](https://bootstraping-1c208b986d1f.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website that I can use to practice my Bootstrap skills. I just create sections and website pages that I hope will grow over time. When my back-end projects get too much for me I go play and improve my front-end skills. I prefer minimalistic/simple websites. [README](https://github.com/todiane/bootstraping)            |   November 2023   |
+| 01  |                     [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               | Aug 2023   |
+| 02  |                    [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for my the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |   November 2023   |
+
 
 ## Open Source Projects
 
@@ -67,35 +66,12 @@ I want to contribute to as many open source projects as my skills allow.
 | 01  |                    [Travis Media ToDo App](https://github.com/rodgtr1/community-javascript-todo-app)                      |                             JavaScript                             | This is a community project for members of Travis Media             |   Sept 2023   |
 
 
-
-## Training Projects
-These are projects created while going through my full stack software developer training. 
-<!---
-todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-|     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
-| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
-| 01  |                    [Love Running](https://todiane.github.io/love-running/index.html)                      |                             HTML5 and CSS3                             | Using html and CSS skills. [README](https://github.com/todiane/love-running)            |   May 2023   |
-| 02  |                 [Love Maths](https://todiane.github.io/love-maths/)                    |                               HTML5,  CSS3 and JavaScript                                   | Learn JavaScript. [README](https://github.com/todiane/love-maths)                              | June 2023 |
-| 03  |                      [Love Sandwiches](https://djc-love-sandwiches-60603cc4f0ea.herokuapp.com/ )                          |                        Python                            | Use Python to create a project that updates Google API Sheet. [README](https://github.com/todiane/love-sandwiches)                                | July 2023 |
-| 04  |                     [Jucing Drop](https://todiane.github.io/bootstrap-landing-page/)                    |                               CSS3, HTML,  Bootstrap                              | Landing page beginners site using Bootstrap. [README](https://github.com/todiane/bootstrap-landing-page)                                | August 2023    |
-| 05  |                      [UCD Resume](https://todiane.github.io/ucd-resume/)                          |                Bootstrap, HTML, CSS                            | A resume project that I updated with my own information.  [README](https://github.com/todiane/ucd-resume)                                        | August 2023 |   
-| 06  |                     [Thorin & Company](https://thorin-todiane-1bb888f61e87.herokuapp.com/)                    |                               Flask, CSS3, HTML,  Bootstrap                              | Website using Flask and Bootstrap. [README](https://github.com/todiane/thorin)                                | Sept 2023    |
-| 07  |                     [SnarkVerse Blog](https://blog-fsf-1e72c6955bdf.herokuapp.com/)                    |                               Django, CSS3, HTML,  Bootstrap                              | Create a blog platform with Django, PostgresSQL & Bootstrap. [README](https://github.com/todiane/blog-fsf)                                | Sept 2023    |
-<!---
-todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Hackathons, Free Code Camp and Udemy
-
-Along with my Full Stack training I am also going through material provided by Free Code Camp and courses I buy from Udemy. Code Instutitue run monthly Hackathon projects and I have included links to created projects here.
+## Hackathons
 
 |     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Company     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
-| 01  |                 [Flexbox Photo Gallery](https://todiane.github.io/flexbox-photo-gallery/)                    |                               HTML5 and CSS3                                   | Learn the basics of creating Flexboxes and adding images. [README](https://github.com/todiane/flexbox-photo-gallery)                              | Free Code Camp  |
-| 02  |                      [Get Rid Of Bias](https://yannickferenczi.github.io/grob/)                          |                        HTML, CSS, Materialize                            | Hackathon project for June 2023. Build a project inline with PRIDE month. We created an inclusivity checker. I designed images and completed [README](https://github.com/todiane/grob)                                         | Code Int |
-| 03  |                      [Aqua La Vista](https://aqua-la-vista.netlify.app/)                          |                        React, Netlify                            | Hackathon project for July 2023. Build an app that helps people find location based events. We choose Wild Swimming as our topic. I have no knowledge of React so supported the team with admin skills.                                          | Code Int |                                                    
+| 01  |                      [Get Rid Of Bias](https://yannickferenczi.github.io/grob/)                          |                        HTML, CSS, Materialize                            | Hackathon project for June 2023. Build a project inline with PRIDE month. We created an inclusivity checker. I designed images and completed [README](https://github.com/todiane/grob)                                         | Code Int |
+| 02  |                      [Aqua La Vista](https://aqua-la-vista.netlify.app/)                          |                        React, Netlify                            | Hackathon project for July 2023. Build an app that helps people find location based events. We choose Wild Swimming as our topic. I have no knowledge of React so supported the team with admin skills.                                          | Code Int |                                                    
                       
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
