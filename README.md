@@ -1,3 +1,8 @@
+
+
+[![GitHub Header](https://github.com/todiane/todiane/blob/main/github-header2.gif)](https://github.com/todiane/todiane/blob/main/github-header.gif)
+
+
 - 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
 - 👀 Interested in building Chatbots and learning about AI, Machine Learning, Large Language Models and Prompt Engineering
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
