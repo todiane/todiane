@@ -47,11 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<br>
-
 # Open Source Projects
-
-I want to contribute to as many open source projects as my skills allow.
 
 |     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
