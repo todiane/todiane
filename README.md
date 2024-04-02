@@ -4,7 +4,7 @@
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
 
-# Full Stack Developer
+# Full-Stack Software Developer (eCommerce)
 
 Qualified Full Stack Software Developer with a specialization in eCommerce. I focus more on back-end development and working with Python, Django, Flask, database management, and APIs to work towards chatbot development. For front-end I use Wagtail and Bootstrap.
 <br/>
@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 | [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for my the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |
 
 <br>
+
 ---
 
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/todiane)
