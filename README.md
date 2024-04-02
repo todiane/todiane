@@ -17,15 +17,20 @@ Qualified Full Stack Software Developer with a specialization in eCommerce. I fo
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Projects
+
 |                       Project                    |                            Concepts                           | Objectives                                                                                                                 |
 | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Corri Construction](https://corri-construction-8c4725a33281.herokuapp.com/)                    |                                Python                                  | Used Python to create a portal for contractors with Google API. [README](https://github.com/todiane/corri-construction-p3)                              |
 | [Our Spot Photo Platform](https://ourspot-d2a3c52401dc.herokuapp.com/)                          |                        Full Stack Toolkit                              | Used Django to build a Full-Stack site based on business logic used to control a centrally-owned dataset. I set up a photo sharing platform/social network for people to share their favourite spot. [README](https://github.com/todiane/our-spot)                                          |
 | ECommerce - [Poster Palace](https://posterpalace-a7414f135cf3.herokuapp.com/)                            |                        Back-End. Database. Stripe.                         | Used Django functions and methods to manage the logic flow of this eCommerce store. [README](https://github.com/todiane/poster-palace)                                                             |
-                                                        |
+| [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               |
+| [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for my the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |
+
 
 
 ✨ **Technologies**
+<br><br>
 <p dir="auto">
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress?logo=wordpress&logoColor=black&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -46,15 +51,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <br><br>
-
-## My Own Projects
-
-I am using my skills to do my own thing outside of (but thanks to) my training
-
-|     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
-| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
-| 01  |                     [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               | Aug 2023   |
-| 02  |                    [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for my the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |   November 2023   |
 
 
 ## Open Source Projects
