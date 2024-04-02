@@ -31,25 +31,19 @@ You can click the Preview link to take a look at your changes.
 
 ✨ **Technologies**
 <br><br>
-<p dir="auto">
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress?logo=wordpress&logoColor=black&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="CSS" src="https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" /> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- </p>
+| Technologies |                                                | IDEs, Markdown, and Version Control |                                           |
+|--------------|-----------------------------------------------------|-------------------------------------|-------------------------------------------------|
+| WordPress    | ![WordPress](https://img.shields.io/badge/-WordPress?logo=wordpress&logoColor=black&style=for-the-badge) | GitHub                              | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) | 
+| HTML         | ![HTML](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)         | GitHub Pages                        | [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/) | 
+| CSS          | ![CSS](https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge)          | Visual Studio Code                  | [![Visual Studio Code](https://img.shields.io/badge/Visual_%20Studio%20Code-3583b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) | 
+| Python       | ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge)     | Markdown                            | [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) |
+| JavaScript   | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |                                       |                                                 |
 
-🖥️ **IDEs, Markdown and Version Control**
- <p dir="auto">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
-    <img alt="GitHub  Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /> 
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_%20Studio%20Code-3583b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />    
- </p> 
-<br><br>
- <a href="https://github.com/todiane">
-    <img src="https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+---
+
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/todiane)
+
+
 <br><br>
 
 
