@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
-- 👀 Building Chatbots and learning about AI, Machine Learning, Large Language Model
-- :point_up_2: Installed WordPress websites from 2009-2017. 
+- 👀 Interested in building Chatbots and learning about AI, Machine Learning, Large Language Models and Prompt Engineering
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
+- :point_up_2: Installed WordPress websites from 2009-2017. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
 
 
 # Full-Stack Software Developer (eCommerce)
@@ -65,6 +65,9 @@ You can click the Preview link to take a look at your changes.
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
 
 [![](https://visitcount.itsvg.in/api?id=todiane&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
