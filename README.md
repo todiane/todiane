@@ -4,7 +4,7 @@
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 
 
-## Full Stack Developer
+# Full Stack Developer
 
 Qualified Full Stack Software Developer with a specialization in eCommerce. I focus more on back-end development and working with Python, Django, Flask, database management, and APIs to work towards chatbot development. For front-end I use Wagtail and Bootstrap.
 <br/>
@@ -27,10 +27,15 @@ You can click the Preview link to take a look at your changes.
 | [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               |
 | [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for my the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |
 
+<br>
+---
 
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/todiane)
 
-✨ **Technologies**
-<br><br>
+---
+
+<br>
+
 | Technologies |                                                | IDEs, Markdown, and Version Control |                                           |
 |--------------|-----------------------------------------------------|-------------------------------------|-------------------------------------------------|
 | WordPress    | ![WordPress](https://img.shields.io/badge/-WordPress?logo=wordpress&logoColor=black&style=for-the-badge) | GitHub                              | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) | 
@@ -41,13 +46,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/todiane)
+<br>
 
-
-<br><br>
-
-
-## Open Source Projects
+# Open Source Projects
 
 I want to contribute to as many open source projects as my skills allow.
 
@@ -56,7 +57,7 @@ I want to contribute to as many open source projects as my skills allow.
 | 01  |                    [Travis Media ToDo App](https://github.com/rodgtr1/community-javascript-todo-app)                      |                             JavaScript                             | This is a community project for members of Travis Media             |   Sept 2023   |
 
 
-## Hackathons
+# Hackathons
 
 |     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Company     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
