@@ -1,7 +1,5 @@
 
-
-[![GitHub Header](https://github.com/todiane/todiane/blob/main/github-header2.gif)](https://github.com/todiane/todiane/blob/main/github-header.gif)
-
+<br>
 
 - 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
 - 👀 Interested in building Chatbots and learning about AI, Machine Learning, Large Language Models and Prompt Engineering
@@ -31,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 | ECommerce - [Poster Palace](https://posterpalace-a7414f135cf3.herokuapp.com/)                            |                        Back-End. Database. Stripe.                         | Used Django functions and methods to manage the logic flow of this eCommerce store. [README](https://github.com/todiane/poster-palace)                                                             |
 | [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               |
 | [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for my the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |
-
+| [Portfolio Site](https://blog-fsf-c7d23044ef57.herokuapp.com/)                      |                             Django, Bootstrap                             | I created a website and blog using Django to highlight my work. I prefer a minimalist style.  [README](https://github.com/todiane/blog-fsf)            |
 <br>
 
 ---
