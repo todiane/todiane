@@ -10,7 +10,7 @@
 
 # Full-Stack Software Developer (eCommerce)
 
-Qualified Full Stack Software Developer with a specialization in eCommerce. I focus more on back-end development and working with Python, Django, Flask, database management, relational databases SQL/PostgreSQL and APIs. Studied AI Fundamentals with DataCamp. Working towards developing chatbot/AI Assistant. For front-end I use Wagtail and Bootstrap.
+Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others.
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/todianedev/">
