@@ -8,7 +8,7 @@
 - :point_up_2: Installed WordPress websites from 2009-2017. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
 
 
-# Full-Stack Software Developer (eCommerce)
+# WordPress & Full-Stack Software Developer (eCommerce)
 
 Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others.
 <br/>
