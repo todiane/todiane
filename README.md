@@ -13,7 +13,7 @@
 Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others.
 <br/>
 <br>
-<a href="https://www.linkedin.com/in/todianedev/">
+<a href="https://www.linkedin.com/in/diane-corriette-453905323/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <br>
