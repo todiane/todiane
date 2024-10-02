@@ -5,12 +5,12 @@
 - 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
 - 👀 Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
-- :point_up_2: Installed WordPress websites from 2009-2017. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
+- :point_up_2: Run a business setting up WordPress websites. Also familiar with Laravel. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
 
 
 # WordPress & Full-Stack Software Developer (eCommerce)
 
-Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others.
+Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others. Currently building a marketing platform using next.js, Typescript and Tailwindcss. 
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/diane-corriette-453905323/">
