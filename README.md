@@ -3,7 +3,7 @@
 <br>
 
 - 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
-- 👀 Interested in building Chatbots and learning about AI, Machine Learning, Large Language Models and Prompt Engineering
+- 👀 Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 - :point_up_2: Installed WordPress websites from 2009-2017. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
 
