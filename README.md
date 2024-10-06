@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
 - 👀 Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
-- :point_up_2: Run a business setting up WordPress websites. Also familiar with Laravel. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
+- :point_up_2: Run a business setting up WordPress websites. Also familiar with Django. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
 
 
 # WordPress & Full-Stack Software Developer (eCommerce)
