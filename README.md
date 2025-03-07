@@ -2,15 +2,15 @@
 [![GitHub Header](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)
 <br>
 
-- 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce)
+- 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce) who loves Django and Django Rest Framework alot, and FastAPI (a little). Find me at [djangify.com](https://djangify.com)
 - 👀 Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
-- :point_up_2: Run a business setting up WordPress websites. Also familiar with Django. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
+- :point_up_2: Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
 
 
 # WordPress & Full-Stack Software Developer (eCommerce)
 
-Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others. Currently building a marketing platform using next.js, Typescript and Tailwindcss. 
+Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others. 
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/diane-corriette-453905323/">
@@ -21,16 +21,16 @@ Qualified Full Stack Software Developer. I focus more on working with Python, Dj
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Projects
+# My Work
 
 |                       Project                    |                            Concepts                           | Objectives                                                                                                                 |
 | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Corri Construction](https://corri-construction-8c4725a33281.herokuapp.com/)                    |                                Python                                  | Used Python to create a portal for contractors with Google API. [README](https://github.com/todiane/corri-construction-p3)                              |
+| [News Aggregator](https://news.djangify.com/)                    |                               Django, TailwindCSS, MySQL                                 | Rather than fill my inbox with newsletters I created a news aggregator that I can visit and catch up. [README](https://github.com/djangify/news)                              |
 | [Our Spot Photo Platform](https://ourspot.up.railway.app/)                          |                        Full Stack Toolkit                              | Used Django to build a Full-Stack site based on business logic used to control a centrally-owned dataset. I set up a photo sharing platform/social network for people to share their favourite spot. [README](https://github.com/todiane/our-spot)                                          |
 | ECommerce - [Poster Palace](https://poster-palace-production.up.railway.app/)                            |                        Back-End. Database. Stripe.                         | Used Django functions and methods to manage the logic flow of this eCommerce store. [README](https://github.com/todiane/poster-palace)                                                             |
 | [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               |
-| [Pen And I Publishing](https://penandi-be55a4501b3e.herokuapp.com/)                      |                             Flask, Bootstrap                             | I created a website for the paperback notebooks I sell on Amazon using Flask. Bootstrap & a Bootstrap Theme. [README](https://github.com/todiane/penandi)            |
-| [Portfolio Site](https://blog-fsf-c7d23044ef57.herokuapp.com/)                      |                             Django, Bootstrap                             | I created a website and blog using Django to highlight my work. I prefer a minimalist style.  [README](https://github.com/todiane/blog-fsf)            |
+| [Pen And I Publishing](https://penandipublishing.co.uk)                      |                             Django, DRF, Tailwind, MySQL                             | I created a website for the paperback notebooks I sell on Amazon and created a prompt generator. [README](https://github.com/djangify/pen)            |
+| [Stream English](https://streamenglish.co.uk)                      |                             Django, MySQL                            | Stream English is a learning management system with a shop and a blog. The tutor adds her YouTube videos to the site and sells products  [README](https://github.com/todiane/stream)            |
 <br>
 
 ---
