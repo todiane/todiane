@@ -8,7 +8,7 @@
 - :point_up_2: Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
 
 
-# WordPress & Full-Stack Software Developer (eCommerce)
+# Full-Stack Software Developer (eCommerce)
 
 Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others. 
 <br/>
