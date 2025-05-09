@@ -33,15 +33,17 @@ You can click the Preview link to take a look at your changes.
 --->
 # My Work
 
-|                       Project                    |                            Concepts                           | Objectives                                                                                                                 |
-| :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [News Aggregator](https://news.djangify.com/)                    |                               Django, TailwindCSS, MySQL                                 | Rather than fill my inbox with newsletters I created a news aggregator that I can visit and catch up. [README](https://github.com/djangify/news)                              |
-| [Our Spot Photo Platform](https://ourspot.up.railway.app/)                          |                        Full Stack Toolkit                              | Used Django to build a Full-Stack site based on business logic used to control a centrally-owned dataset. I set up a photo sharing platform/social network for people to share their favourite spot. [README](https://github.com/todiane/our-spot)                                          |
-| ECommerce - [Poster Palace](https://poster-palace-production.up.railway.app/)                            |                        Back-End. Database. Stripe.                         | Used Django functions and methods to manage the logic flow of this eCommerce store. [README](https://github.com/todiane/poster-palace)                                                             |
-| [Synced Video](https://todiane.github.io/sync-video/)                   |                              JS, CSS3, HTML                             | Created page with video and synced transcript. Click on the transcript to be taken to that part of the video. [README](https://github.com/todiane/sync-video)                               |
-| [Pen And I Publishing](https://penandipublishing.co.uk)                      |                             Django, DRF, Tailwind, MySQL                             | I created a website for the paperback notebooks I sell on Amazon and created a prompt generator. [README](https://github.com/djangify/pen)            |
-| [Stream English](https://streamenglish.co.uk)                      |                             Django, MySQL                            | Stream English is a learning management system with a shop and a blog. The tutor adds her YouTube videos to the site and sells products  [README](https://github.com/todiane/stream)            |
-<br>
+| Project | Concepts | Objectives |
+| :------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI Marketing Platform** ([Code](https://github.com/djangify/ai-marketing2) • [Live](https://www.aimarketingplatform.app)) | Django · DRF · MariaDB · Tailwind CSS · TypeScript | A full-stack AI-driven marketing platform offering  dynamic content generation and repurposing. |
+| **Corrison Headless E-commerce & CMS Backend** ([Code](https://github.com/djangify/corrison)) | Django · DRF · MariaDB · Tailwind CSS · TypeScript | A decoupled, API-first backend powering e-commerce storefronts and content management. |
+| **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · MySQL | A bespoke LMS with integrated shop and blog, enabling English tutors to publish video lessons and sell resources. |
+| **News Aggregator** ([Live](https://news.djangify.com/) • [Code](https://github.com/djangify/news)) | Django · Tailwind CSS · MySQL | Consolidates newsletters and RSS feeds into a single dashboard to streamline my daily reading. |
+| **Show Your Spot Photo Platform** ([Live](https://showyourspot.com/) • [Code](https://github.com/djangify/our-spot)) | Django · Full-Stack Toolkit | A social network for sharing and discovering favorite photo-spots, complete with location-based galleries. |
+| **Poster Palace (E-Commerce)** ([Live](https://poster-palace-production.up.railway.app/) • [Code](https://github.com/todiane/poster-palace)) | Django · MySQL · Stripe | An online poster store featuring product management, shopping cart flows, and secure Stripe checkouts. |
+| **Project Tracker** ([Live](https://tracker.djangify.com/) • ([Code](https://github.com/djangify/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
+| **Pen And I Publishing** ([Live](https://penandipublishing.co.uk) • [Code](https://github.com/djangify/pen)) | Django · DRF · Tailwind CSS · MySQL | A storefront for paperback notebooks paired with a writing-prompt generator to inspire new authors. |
+
 
 ---
 
