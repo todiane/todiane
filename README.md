@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 | **Show Your Spot Photo Platform** ([Live](https://showyourspot.com/) • [Code](https://github.com/djangify/our-spot)) | Django · Full-Stack Toolkit | A social network for sharing and discovering favorite photo-spots, complete with location-based galleries. |
 | **Poster Palace (E-Commerce)** ([Live](https://poster-palace-production.up.railway.app/) • [Code](https://github.com/todiane/poster-palace)) | Django · MySQL · Stripe | An online poster store featuring product management, shopping cart flows, and secure Stripe checkouts. |
 | **Project Tracker** ([Live](https://tracker.djangify.com/) • ([Code](https://github.com/djangify/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
-| **Pen And I Publishing** ([Live](https://penandipublishing.co.uk) • [Code](https://github.com/djangify/pen)) | Django · DRF · Tailwind CSS · MySQL | A storefront for paperback notebooks paired with a writing-prompt generator to inspire new authors. |
+| **Pen And I Publishing** ([Live](https://penandipublishing.co.uk) • [Code](https://github.com/djangify/pen)) | Django · DRF · Tailwind CSS · MySQL | A storefront for paperback notebooks paired with a writing-prompt generator to inspire anyone interested in journal prompts and memoir writing. |
 
 
 ---
