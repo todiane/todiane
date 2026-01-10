@@ -10,7 +10,7 @@
 
 # Full-Stack Software Developer (eCommerce)
 
-I focus more on working with Python, Django, Flask, and database management, building useful tools that can be used self-hosted. Saves on subscriptions and more importantly data privacy.
+I focus more on working with Python, Django, Flask, and database management, building useful tools that can be used self-hosted. Saves on subscriptions and more importantly data privacy. I build and maintain open-source Django products under the Djangify organisation.
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/diane-corriette-453905323/">
