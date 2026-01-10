@@ -10,7 +10,7 @@
 
 # Full-Stack Software Developer (eCommerce)
 
-Qualified Full Stack Software Developer. I focus more on working with Python, Django, Flask, database management, AI and APIs. Studied AI Fundamentals with DataCamp. I build AI Chatbots and AI Assistants using FastAPI, Flask, Jinga2 and others. 
+I focus more on working with Python, Django, Flask, and database management, building useful tools that can be used self-hosted. Saves on subscriptions and more importantly data privacy.
 <br/>
 <br>
 <a href="https://www.linkedin.com/in/diane-corriette-453905323/">
