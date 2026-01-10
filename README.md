@@ -2,10 +2,10 @@
 [![GitHub Header](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)
 <br>
 
-- 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce) who loves Django and Django Rest Framework alot, and FastAPI (a little). Find me at [djangify.com](https://djangify.com)
+- 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce) who loves Django and Django Rest Framework alot, and FastAPI (a little). Find me at GitHub Repo [Djangify](https://github.com/djangify)
 - 👀 Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
-- :point_up_2: Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django. ✍️ Writing my coding journey at [todiane.dev](https://todiane.dev)
+- :point_up_2: Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django. 
 
 
 # Full-Stack Software Developer (eCommerce)
@@ -20,13 +20,35 @@ Qualified Full Stack Software Developer. I focus more on working with Python, Dj
 
 ## Favourite tools to build with in order of preference
 
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+<p align="center">
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  </a>
+
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </a>
+
+  <a href="https://www.sqlite.org/">
+    <img src="https://img.shields.io/badge/Database-SQLite--First-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite First">
+  </a>
+
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Deployment-Docker--Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Ready">
+  </a>
+
+  <img src="https://img.shields.io/badge/Hosting-Self--Hosted--Ready-4B5563?style=for-the-badge" alt="Self Hosted Ready">
+
+  <a href="https://www.hardenize.com/">
+    <img src="https://img.shields.io/badge/VPS%20Hosting-Self%20Managed-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Self Managed VPS">
+  </a>
+</p>
+
 <!---
 todiane/todiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
