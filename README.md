@@ -57,13 +57,13 @@ You can click the Preview link to take a look at your changes.
 
 | Project | Concepts | Objectives |
 | :------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Djangify eCommerce Builder** ([Code](https://github.com/djangify/ebuilder)) | Django ·sqlite .  Tailwind CSS |  An e-commerce builder for selling digital downloades and content management. |
-| **MTDify - Manage Transactions Daily** ([Code](https://github.com/djangify/mtdify)) | Django ·sqlite .  Tailwind CSS |  Bookkeeping software with the ability to upload receipts and download reports using ReportsLab |
-| **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · MySQL | A bespoke LMS with integrated shop and blog, enabling English tutor to publish her video lessons and sell resources. |
+| **Djangify eCommerce Builder** ([Code](https://github.com/djangify/ebuilder)) | Django ·sqlite3 .  Tailwind CSS |  An e-commerce builder for selling digital downloades and content management. |
+| **MTDify - Manage Transactions Daily** ([Code](https://github.com/djangify/mtdify)) | Django ·sqlite3 .  Tailwind CSS |  Bookkeeping software with the ability to upload receipts and download reports using ReportsLab |
+| **Adminita** ([Live](https://adminita.todiane.com) • [Code](https://github.com/djangify/adminita)) | Django . sqlite3 | A Django admin theme used in my projects, made for the ecommerce builder but now used on other sites. Replace Django admin |
+| **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · PostgreSQL | A bespoke LMS with integrated shop and blog, enabling English tutor to publish her video lessons and sell resources. |
 | **Inspirational Guidance** ([Live](https://inspirationalguidance.com.com/) • [Code](https://github.com/djangify/inspirational)) | Django · Full-Stack Toolkit | A Django site using DRF. Created a membership with dashboard. An ecommerce shop and a goal tracker plus journal prompt generator |
-| **Poster Palace (E-Commerce)** ([Live](https://poster-palace-production.up.railway.app/) • [Code](https://github.com/todiane/poster-palace)) | Django · MySQL · Stripe | An online poster store featuring product management, shopping cart flows, and secure Stripe checkouts. |
 | **Project Tracker** ([Live](https://tracker.djangify.com/) • ([Code](https://github.com/djangify/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
-| **Pen And I Publishing** ([Live](https://penandipublishing.co.uk) • [Code](https://github.com/djangify/pen)) | Django · DRF · Tailwind CSS · MySQL | A storefront for paperback notebooks paired with a writing-prompt generator to inspire anyone interested in journal prompts and memoir writing. |
+| **Pen And I Publishing** ([Live](https://penandipublishing.co.uk) • [Code](https://github.com/djangify/pen)) | Django · DRF · Tailwind CSS · PostgreSQL | A storefront for paperback notebooks paired with a writing-prompt generator to inspire anyone interested in journal prompts and memoir writing. |
 
 
 ---
@@ -84,14 +84,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-# Open Source Projects
-
-|     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Date     |
-| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
-| 01  |                    [Travis Media ToDo App](https://github.com/rodgtr1/community-javascript-todo-app)                      |                             JavaScript                             | This is a community project for members of Travis Media             |   Sept 2023   |
 
 
-# Hackathons
+
+# Hackathons while training in Full Stack Development
 
 |     |                       Project Name                       |                            Concepts Used                             | Learning Objectives                                                                                                                 |     Company     |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :-----------------|
