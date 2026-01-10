@@ -2,8 +2,8 @@
 [![GitHub Header](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)
 <br>
 
-- 👋 Hi, I’m Diane Corriette @toDianeDev - Full-Stack Software Developer (eCommerce) who loves Django and Django Rest Framework alot, and FastAPI (a little). Find me at GitHub Repo [Djangify](https://github.com/djangify)
-- 👀 Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
+- 👋 Hi, I’m Diane Corriette @toDianeDev - Django Backend Developer (eCommerce) who prefers working with Django, DRF, FastAPI and Flask. Find me at GitHub Repo [Djangify](https://github.com/djangify)
+- 👀 Interested in self-hosted, offline and local-first, micro-saas way of running sites.
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 - :point_up_2: Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django. 
 
@@ -57,7 +57,8 @@ You can click the Preview link to take a look at your changes.
 
 | Project | Concepts | Objectives |
 | :------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Corrison Headless E-commerce & CMS Backend** ([Code](https://github.com/djangify/corrison)) | Django · DRF · MariaDB · Tailwind CSS · TypeScript | A decoupled, API-first backend powering e-commerce storefronts and content management. |
+| **Djangify eCommerce Builder** ([Code](https://github.com/djangify/ebuilder)) | Django ·sqlite .  Tailwind CSS |  An e-commerce builder for selling digital downloades and content management. |
+| **MTDify - Manage Transactions Daily** ([Code](https://github.com/djangify/mtdify)) | Django ·sqlite .  Tailwind CSS |  Bookkeeping software with the ability to upload receipts and download reports using ReportsLab |
 | **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · MySQL | A bespoke LMS with integrated shop and blog, enabling English tutor to publish her video lessons and sell resources. |
 | **Inspirational Guidance** ([Live](https://inspirationalguidance.com.com/) • [Code](https://github.com/djangify/inspirational)) | Django · Full-Stack Toolkit | A Django site using DRF. Created a membership with dashboard. An ecommerce shop and a goal tracker plus journal prompt generator |
 | **Poster Palace (E-Commerce)** ([Live](https://poster-palace-production.up.railway.app/) • [Code](https://github.com/todiane/poster-palace)) | Django · MySQL · Stripe | An online poster store featuring product management, shopping cart flows, and secure Stripe checkouts. |
