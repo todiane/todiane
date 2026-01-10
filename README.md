@@ -80,7 +80,8 @@ You can click the Preview link to take a look at your changes.
 | HTML         | ![HTML](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)         | GitHub Pages                        | [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/) | 
 | CSS          | ![CSS](https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge)          | Visual Studio Code                  | [![Visual Studio Code](https://img.shields.io/badge/Visual_%20Studio%20Code-3583b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) | 
 | Python       | ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge)     | SQL (Intermediate) & PostgreSQL                           | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)|
-| JavaScript   | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |                ChatGPT Prompt Engineering                       |         ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)                                      |
+| JavaScript   | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |                Claudi.ai                       |         ![Claude (Anthropic)](https://img.shields.io/badge/Claude%20(Anthropic)-111827?style=for-the-badge)
+                                     |
 
 ---
 
