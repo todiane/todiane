@@ -2,7 +2,7 @@
 [![GitHub Header](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)](https://github.com/todiane/todiane/blob/main/dianecorriette-linkedin-banner.png)
 <br>
 
-- 👋 Hi, I’m Diane Corriette @toDianeDev - Django Backend Developer (eCommerce) who prefers working with Django, DRF, FastAPI and Flask. Find me at GitHub Repo [Djangify](https://github.com/djangify)
+- 👋 Hi, I’m Diane @toDianeDev - Django Backend Developer (eCommerce) who prefers working with Django, DRF, FastAPI and Flask. Find me at GitHub Repo [Djangify](https://github.com/djangify)
 - 👀 Interested in self-hosted, offline and local-first, micro-saas way of running sites.
 - 💞️ Happy to collaborate on Open Source projects, Hackathons and anything related to women in tech
 - :point_up_2: Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django. 
@@ -12,10 +12,7 @@
 
 I focus more on working with Python, Django, Flask, and database management, building useful tools that can be used self-hosted. Saves on subscriptions and more importantly data privacy. I build and maintain open-source Django products under the Djangify organisation.
 <br/>
-<br>
-<a href="https://www.linkedin.com/in/diane-corriette-453905323/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
+
 <br>
 
 ## Favourite tools to build with in order of preference
